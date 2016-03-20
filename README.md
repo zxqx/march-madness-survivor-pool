@@ -1,4 +1,4 @@
-# march-madness-survivor-pool
+# March Madness Survivor Pool
 
 An app for creating and managing March Madness survivor pools.
 
