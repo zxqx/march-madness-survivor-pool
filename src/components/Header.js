@@ -10,7 +10,7 @@ export default class Header extends Component {
 
     return (
       <div>
-        <h2 className={styles.h2}>march-madness-survivor-pool</h2>
+        <h2 className={styles.h2}>March Madness Survivor Pool</h2>
 
         <Link to={'/'}>Home Page</Link> -&nbsp;
         <Link to={'/another'}>Another Page</Link>
